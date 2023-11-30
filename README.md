@@ -1,8 +1,6 @@
 
 ## Привет, меня зовут Алексей! 👋
 
----
-
 ### Обо мне:
 
 Я начинающий Data Scientist. Мой путь в IT начался с курса по DS в Яндекс Практикум. В настоящее время я активно изучаю машинное обучение, работаю над своим pet-проектом и участвую в хакатонах. 
@@ -27,7 +25,3 @@
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google_Сolab" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </div>
-
----
-
-
