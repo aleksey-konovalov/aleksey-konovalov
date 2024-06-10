@@ -3,8 +3,8 @@
 
 ### Обо мне:
 
-Я начинающий Data Scientist. Активно изучаю машинное обучение, работаю над своим pet-проектом и участвую в хакатонах. 
-Открыт к предложениям о сотрудничестве и работе.
+Я начинающий Data Scientist. Активно изучаю машинное обучение и участвую в хакатонах. 
+Открыт к предложениям о сотрудничестве.
 
 [![Telegram Badge](https://img.shields.io/badge/-konovalov_aleksey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/A1ex_Konovalov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexey.konovalov27@gmail.com)
 
