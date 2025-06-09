@@ -14,7 +14,7 @@ I'm open to proposals for cooperation.
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="35" height="35"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://pytorch.org/wp-content/uploads/2024/10/logo.svg" alt="PyTorch" title="PyTorch" width="35" height="35"/></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://learn.microsoft.com/en-us/windows/ai/images/tutorials/pytorch-logo.png" alt="PyTorch" title="PyTorch" height="35"/></a>
   <a href="https://langchain.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-media-0.freecodecamp.org/2023/05/Screenshot-2023-05-29-at-5.40.38-PM.png" alt="LangChain" title="LangChain" height="35"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="35" height="35"/></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" title="NumPy" width="35" height="35"/></a>
